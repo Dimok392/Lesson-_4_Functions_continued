@@ -21,5 +21,5 @@ for (int i = 0; i < n; i++)
     a[i] = int.Parse(Console.ReadLine());
 
 }
-Console.WriteLine("\nМассив: {0}", String.Join(" ", a));
+Console.WriteLine("Массив: {0}", String.Join(" ", a));
 Console.ReadLine();
